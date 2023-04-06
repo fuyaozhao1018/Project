@@ -22,12 +22,12 @@ I can code with
 - Java
 - C
 - c++
-What I like to do in my spare time
+*What I like to do in my spare time*
 1. watchihg movies
 2. listening to music
 3. cooking
 4. swimming
-what I need to do now:
+*what I need to do now:*
 - [x] Have lunch
 - [ ] finish lab1
 - [ ] finish college
