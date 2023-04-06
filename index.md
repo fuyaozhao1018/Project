@@ -21,6 +21,7 @@ I can code with
 - Python
 - Java
 - C
+- c++
 What I like to do in my spare time
 1. watchihg movies
 2. listening to music
